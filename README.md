@@ -1,4 +1,4 @@
-# 🍔 Cardápio Online - Lanchonete do Joel
+# 🍔 Cardápio Online - Gastronomia Artesanal
 
 Um projeto web simples e interativo que simula o cardápio digital de uma lanchonete, permitindo que os usuários selecionem itens e vejam o resumo do seu pedido em tempo real.
 
